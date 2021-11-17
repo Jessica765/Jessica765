@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jessica765
 - 👀 I’m interested in so many things
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and C#
 
 <!---
 Jessica765/Jessica765 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
